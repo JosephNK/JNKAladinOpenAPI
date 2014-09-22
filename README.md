@@ -9,6 +9,10 @@ http://blog.aladin.co.kr/openapi
 
 * `JNKAladinOpenAPI`
   - `JNKAladinOpenAPIConf.h`::AladinOpenAPITTBKey : `[TTB key]` 설정
+
+## Use TBXML
+- Use TBXML :  http://www.tbxml.co.uk/TBXML/TBXML_Free.html 참고.
+- Use not TBXML : `TBXML`, `JNKAladinTBXMLParser` 폴더 삭제.
   
 ## Support
 
